@@ -1,5 +1,11 @@
-h1{
-color:magenta;
+body {
+  background: url("http://www.hifreevideos.com/images/preview/minimalistic-humor-meme-simple-background-simple-white-background-neil-18017.jpg");
+}
+
+
+#random{
+  color:blue;
+  text-align:center;
 }
 p, ol, a{
   color:white;
